@@ -1,0 +1,5 @@
+name: Babygram
+symbol: BABYGRAM
+decimals: 9
+image: https://raw.githubusercontent.com/BabygramCoin/ton-assets/main/icons/babygram.png
+description: Official Babygram token on TON blockchain.
